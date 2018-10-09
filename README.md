@@ -3,7 +3,11 @@
 
 ## Внешний вид набора
 
-![Mihdan: Hate Everything Stickers](./screenshot.png)
+|               |               |       |
+| ------------- |:-------------:| -----:|
+| ![Mihdan: Hate Everything Stickers - Advanced Custom Fields](./dist/advanced-custom-fields.png) | ![Mihdan: Hate Everything Stickers - Carbon Fields](./dist/carbon-fields.png) | ![Mihdan: Hate Everything Stickers - Divi](./dist/divi.png) |
+| ![Mihdan: Hate Everything Stickers - Elementor](./dist/elementor.png) | ![Mihdan: Hate Everything Stickers - Gutenberg](./dist/gutenberg.png) | ![Mihdan: Hate Everything Stickers - PhpStorm](./dist/phpstorm.png) |
+| ![Mihdan: Hate Everything Stickers - VsCode](./dist/vscode.png) | ![Mihdan: Hate Everything Stickers - Woocommerce](./dist/woocommerce.png) | ![Mihdan: Hate Everything Stickers - WordPress](./dist/wordpress.png) |
 
 ## Как добавить
 
