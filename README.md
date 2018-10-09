@@ -5,6 +5,10 @@
 
 ![Mihdan: Hate Everything Stickers](./screenshot.png)
 
+## Как добавить
+
+Чтобы добавить набор к себе в Телеграм - перейдите по [ссылке](https://t.me/addstickers/r223r23r23).
+
 # Copyright
 
 Стикер-пак принадлежит каналу [WordPress Digest](https://t.me/wordpress_digest) в Телеграм.
