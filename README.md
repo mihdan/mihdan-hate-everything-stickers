@@ -13,6 +13,7 @@
 | ![Mihdan: Hate Everything Stickers - WP Bakery](./dist/wpbakery.png) | ![Mihdan: Hate Everything Stickers - Shit](./dist/shit.png) | ![Mihdan: Hate Everything Stickers - Trello](./dist/trello.png) |
 | ![Mihdan: Hate Everything Stickers - Visual composer](./dist/visual-composer.png) | ![Mihdan: Hate Everything Stickers - Themeforest](./dist/themeforest.png) | ![Mihdan: Hate Everything Stickers - Docker](./dist/docker.png) |
 | ![Mihdan: Hate Everything Stickers - GiHub](./dist/github.png) | ![Mihdan: Hate Everything Stickers - Composer](./dist/composer.png)  | ![Mihdan: Hate Everything Stickers - Codecanyon](./dist/codecanyon.png) |
+| ![Mihdan: Hate Everything Stickers - SEO](./dist/seo.png) | ![Mihdan: Hate Everything Stickers - Roots](./dist/roots.png)  | ![Mihdan: Hate Everything Stickers - Slack](./dist/slack.png) |
 
 ## Как добавить
 
