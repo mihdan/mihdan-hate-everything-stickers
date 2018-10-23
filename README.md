@@ -10,10 +10,10 @@
 | ![Mihdan: Hate Everything Stickers - VsCode](./dist/vscode.png) | ![Mihdan: Hate Everything Stickers - Woocommerce](./dist/woocommerce.png) | ![Mihdan: Hate Everything Stickers - WordPress](./dist/wordpress.png) |
 | ![Mihdan: Hate Everything Stickers - Yoast](./dist/yoast.png) | ![Mihdan: Hate Everything Stickers - Brizy](./dist/brizy.png) | ![Mihdan: Hate Everything Stickers - macOS](./dist/macos.png) |
 | ![Mihdan: Hate Everything Stickers - Babel](./dist/babel.png) | ![Mihdan: Hate Everything Stickers - Contact form 7](./dist/cf7.png) | ![Mihdan: Hate Everything Stickers - Telegram](./dist/telegram.png) |
-| ![Mihdan: Hate Everything Stickers - WP Bakery](./dist/wpbakery.png) | ![Mihdan: Hate Everything Stickers - Shit](./dist/shit.png) | ![Mihdan: Hate Everything Stickers - Trello](./dist/trello.png) |
+| ![Mihdan: Hate Everything Stickers - WP Bakery](./dist/wpbakery.png) | ![Mihdan: Hate Everything Stickers - Shit](./dist/shit.png) | ![Mihdan: Hate Everything Stickers - Trello](./dist/trello.png) | ![Mihdan: Hate Everything Stickers - Ubuntu](./dist/ubuntu.png) |
 | ![Mihdan: Hate Everything Stickers - Visual composer](./dist/visual-composer.png) | ![Mihdan: Hate Everything Stickers - Themeforest](./dist/themeforest.png) | ![Mihdan: Hate Everything Stickers - Docker](./dist/docker.png) |
 | ![Mihdan: Hate Everything Stickers - GiHub](./dist/github.png) | ![Mihdan: Hate Everything Stickers - Composer](./dist/composer.png)  | ![Mihdan: Hate Everything Stickers - Codecanyon](./dist/codecanyon.png) |
-| ![Mihdan: Hate Everything Stickers - SEO](./dist/seo.png) | ![Mihdan: Hate Everything Stickers - Roots](./dist/roots.png)  | ![Mihdan: Hate Everything Stickers - Slack](./dist/slack.png) |
+| ![Mihdan: Hate Everything Stickers - SEO](./dist/seo.png) | ![Mihdan: Hate Everything Stickers - Roots](./dist/roots.png)  | ![Mihdan: Hate Everything Stickers - Slack](./dist/slack.png) | ![Mihdan: Hate Everything Stickers - Windows](./dist/windows.png) |
 
 ## Как добавить
 
