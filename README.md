@@ -23,6 +23,4 @@
 
 # Copyright
 
-Стикер-пак принадлежит каналу [WordPress Digest](https://t.me/wordpress_digest) в Телеграм.
-
-Отдельная благодарность [Dima Minka](https://github.com/DimaMinka) за создание шаблона и разработку большинства стикеров в наборе.
+Стикер-пак разрабатывается при поддержке телеграм-канала [WordPress Digest](https://t.me/wordpress_digest). Отдельная благодарность [Dima Minka](https://github.com/DimaMinka) за создание шаблона и разработку большинства стикеров в наборе. Оригинальная идея принадлежит [roose](https://github.com/roose?).
