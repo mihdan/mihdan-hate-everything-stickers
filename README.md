@@ -16,6 +16,7 @@
 | ![Mihdan: Hate Everything Stickers - SEO](./dist/seo.png)                                       | ![Mihdan: Hate Everything Stickers - Roots](./dist/roots.png)                 | ![Mihdan: Hate Everything Stickers - Slack](./dist/slack.png)               |
 | ![Mihdan: Hate Everything Stickers - Webpack](./dist/webpack.png)                               | ![Mihdan: Hate Everything Stickers - RU Center](./dist/nic-ru-center.png)     | ![Mihdan: Hate Everything Stickers - OOP](./dist/oop.png)                   |
 | ![Mihdan: Hate Everything Stickers - Jira](./dist/jira.png)                                     | ![Mihdan: Hate Everything Stickers - Bitbucket](./dist/bitbucket.png)         | ![Mihdan: Hate Everything Stickers - Posts 2 posts](./dist/posts2posts.png) |
+| ![Mihdan: Hate Everything Stickers - MySQL](./dist/mysql.png)                                   | ![Mihdan: Hate Everything Stickers - Vagrant](./dist/vagrant.png)             | ![Mihdan: Hate Everything Stickers - Yandex](./dist/yandex.png)             |
 
 ## Как добавить
 
