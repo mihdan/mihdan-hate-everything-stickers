@@ -17,6 +17,8 @@
 | ![Mihdan: Hate Everything Stickers - Webpack](./dist/webpack.png)                               | ![Mihdan: Hate Everything Stickers - RU Center](./dist/nic-ru-center.png)     | ![Mihdan: Hate Everything Stickers - OOP](./dist/oop.png)                   |
 | ![Mihdan: Hate Everything Stickers - Jira](./dist/jira.png)                                     | ![Mihdan: Hate Everything Stickers - Bitbucket](./dist/bitbucket.png)         | ![Mihdan: Hate Everything Stickers - Posts 2 posts](./dist/posts2posts.png) |
 | ![Mihdan: Hate Everything Stickers - MySQL](./dist/mysql.png)                                   | ![Mihdan: Hate Everything Stickers - Vagrant](./dist/vagrant.png)             | ![Mihdan: Hate Everything Stickers - Yandex](./dist/yandex.png)             |
+| ![Mihdan: Hate Everything Stickers - Crocoblock](./dist/crocoblock.png)                         | ![Mihdan: Hate Everything Stickers - Windows](./dist/windows.png)             | ![Mihdan: Hate Everything Stickers - Laravel](./dist/laravel.png)           |
+| ![Mihdan: Hate Everything Stickers - CoronaVirus](./dist/coronavirus.png)                       | ![Mihdan: Hate Everything Stickers - Empty](./dist/*.png)                     | ![Mihdan: Hate Everything Stickers - Empty](./dist/*.png)                   |
 
 ## Как добавить
 
