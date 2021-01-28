@@ -22,7 +22,7 @@
 | ![Mihdan: Hate Everything Stickers - Themeforest](./dist/themeforest.png)                                     | ![Mihdan: Hate Everything Stickers - Trello](./dist/trello.png)         | ![Mihdan: Hate Everything Stickers - Ubuntu](./dist/ubuntu.png) |
 | ![Mihdan: Hate Everything Stickers - UX](./dist/ux.png)                                     | ![Mihdan: Hate Everything Stickers - VisualComposer](./dist/visual-composer.png)         | ![Mihdan: Hate Everything Stickers - Vscode](./dist/vscode.png) |
 | ![Mihdan: Hate Everything Stickers - Webpack](./dist/webpack.png)                                     | ![Mihdan: Hate Everything Stickers - Woocommerce](./dist/woocommerce.png)         | ![Mihdan: Hate Everything Stickers - Wordpress Digest](./dist/wordpress-digest.png) |
-| ![Mihdan: Hate Everything Stickers - Wordpress](./dist/wordpress.png)                                     | ![Mihdan: Hate Everything Stickers - WPBakery](./dist/WPBakery.png)         | ![Mihdan: Hate Everything Stickers - Yoast](./dist/yoast.png) |
+| ![Mihdan: Hate Everything Stickers - Wordpress](./dist/wordpress.png)                                     | ![Mihdan: Hate Everything Stickers - WPBakery](./dist/wpbakery.png)         | ![Mihdan: Hate Everything Stickers - Yoast](./dist/yoast.png) |
 | ![Mihdan: Hate Everything Stickers - zImageOptimizer](./dist/zImageOptimizer.png)                                     | ![ ]( )         | ![  ](  ) |
 
 ## Как добавить
