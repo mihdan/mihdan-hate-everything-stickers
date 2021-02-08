@@ -2,11 +2,10 @@
 Набор стикеров для любителей похейтить всё вокруг
 
 ## Внешний вид набора (обновлено)
-
-|                                                                                                 |                                                                               |                                                                             |
-|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------| 
-![Mihdan: Hate Everything Stickers - Advanced Custom Fields](./dist/advanced-custom-fields.png) | ![Mihdan: Hate Everything Stickers - Babel](./dist/babel.png) | ![Mihdan: Hate Everything Stickers - Bitbucket](./dist/bitbucket.png)|| 
-![Mihdan: Hate Everything Stickers - Brizy](./dist/brizy.png) | ![Mihdan: Hate Everything Stickers - Carbon Fields](./dist/carbon-fields.png) | ![Mihdan: Hate Everything Stickers - Contact Form 7](./dist/cf7.png)
+|   |   |   |
+|---|---|---|
+| ![Mihdan: Hate Everything Stickers - Advanced Custom Fields](./dist/advanced-custom-fields.png) | ![Mihdan: Hate Everything Stickers - Babel](./dist/babel.png) | ![Mihdan: Hate Everything Stickers - Bitbucket](./dist/bitbucket.png) | 
+| ![Mihdan: Hate Everything Stickers - Brizy](./dist/brizy.png) | ![Mihdan: Hate Everything Stickers - Carbon Fields](./dist/carbon-fields.png) | ![Mihdan: Hate Everything Stickers - Contact Form 7](./dist/cf7.png)
 | ![Mihdan: Hate Everything Stickers - Codecanyon](./dist/codecanyon.png) | ![Mihdan: Hate Everything Stickers - Composer](./dist/composer.png) | ![Mihdan: Hate Everything Stickers - Divi](./dist/divi.png)
 | ![Mihdan: Hate Everything Stickers - Docker](./dist/docker.png) | ![Mihdan: Hate Everything Stickers - Elementor](./dist/elementor.png) | ![Mihdan: Hate Everything Stickers - Docker](./dist/docker.png)
 | ![Mihdan: Hate Everything Stickers - Github](./dist/github.png)                           | ![Mihdan: Hate Everything Stickers - Gnome](./dist/gnome.png)         | ![Mihdan: Hate Everything Stickers - GoDaddy](./dist/godaddy.png)         |
