@@ -5,7 +5,6 @@
 
 |                                                                                                 |                                                                               |                                                                             |
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-
 | ![Mihdan: Hate Everything Stickers - Advanced Custom Fields](./dist/advanced-custom-fields.png) | ![Mihdan: Hate Everything Stickers - Babel](./dist/babel.png) | ![Mihdan: Hate Everything Stickers - Bitbucket](./dist/bitbucket.png)                 |
 | ![Mihdan: Hate Everything Stickers - Brizy](./dist/brizy.png) | ![Mihdan: Hate Everything Stickers - Carbon Fields](./dist/carbon-fields.png) | ![Mihdan: Hate Everything Stickers - Contact Form 7](./dist/cf7.png)
 | ![Mihdan: Hate Everything Stickers - Codecanyon](./dist/codecanyon.png) | ![Mihdan: Hate Everything Stickers - Composer](./dist/composer.png) | ![Mihdan: Hate Everything Stickers - Divi](./dist/divi.png)
